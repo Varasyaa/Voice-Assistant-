@@ -1,0 +1,1 @@
+send_email("Subject of Email", "This is the body of the email", "recipient_email@example.com")
